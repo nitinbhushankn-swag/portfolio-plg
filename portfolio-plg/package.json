@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^11.5.0",
+    "react-scripts": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
